@@ -56,14 +56,14 @@ body {
 
 .landing-title {
   font-family: 'Playfair Display', serif;
-  font-size: 11rem;
+  font-size: 2rem;
   color: #e5dede;
   margin: 0; /* remove default margin */
 }
 
 .landing-subtitle {
   font-family: 'Playfair Display', serif;
-  font-size: 11rem;
+  font-size: 2rem;
   color: #e5dede;
   margin-top: 0; /* customize spacing between the <p> */
 }
