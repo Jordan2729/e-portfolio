@@ -48,7 +48,7 @@ body {
 
 .landing-text {
   position: absolute;
-  bottom: -9rem;   /* distance from bottom */
+  bottom: 2rem;   /* distance from bottom */
   left: 5%;     /* distance from left */
   text-align: left;
   margin: 0;
